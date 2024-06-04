@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "861494885685",
+    "project_id": "moofarm-6d7f3",
+    "storage_bucket": "moofarm-6d7f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861494885685:android:8171e09e95527f03b8e07c",
+        "android_client_info": {
+          "package_name": "com.example.moofarm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsFZuKoILw4yr0jZnoISSo-rnfqpTAbhY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
