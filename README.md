@@ -1,16 +1,24 @@
 # Doodh Saathi
 
-A new Flutter project.
+Doodh Saathi is a major project developed to aid the agriculture sector by addressing several key problems faced by farmers. This app focuses on solving issues such as monetary constraints due to low income, limited access to veterinary services, and providing a marketplace for farmers to buy supplies and sell their cows.
 
-## Getting Started
+## Key Features
 
-This project is a starting point for a Flutter application.
+### 🌾 Virtual Credit System
+- **In-App Credit:** Provides virtual credit to farmers, which they can use to purchase supplies within the app's marketplace. This system aims to alleviate monetary constraints and improve farmers' purchasing power.
 
-A few resources to get you started if this is your first Flutter project:
+### 🛒 Marketplace
+- **Supply Marketplace:** A platform where farmers can conveniently buy necessary supplies.
+- **Cattle Marketplace:** Allows farmers to list and sell their cows, broadening their market reach.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 🏥 24/7 Veterinary Service
+- **Emergency Vet Access:** A dedicated button that connects farmers to the nearest veterinarian within an adjustable radius of up to 50 km. This ensures timely veterinary care and support for their cattle.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Technologies Used
+- **Frontend:** Flutter
+- **Backend:** Firebase
+
+## Installation and Setup
+1. **Clone the repository:**
+   ```sh
+   git clone https://github.com/your-username/doodh-saathi.git
